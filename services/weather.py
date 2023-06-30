@@ -19,7 +19,7 @@ class WeatherService(BaseService):
         self.api_key = ProjectConfig().WEATHERAPI_API_KEY
         self.base_url = ProjectConfig().WEATHER_API_BASE_URL
         self.redis_client = redis.Redis(
-            host="localhost", port=6379
+            host=ProjectConfig().REDIS_HOST, port=ProjectConfig().REDIS_PORT
         )  # Configure Redis connection
         super().__init__()
 
@@ -53,7 +53,7 @@ class WeatherService(BaseService):
             if response.status_code == 200:
                 weather_data = response.json()
                 self.redis_client.set(
-                    location, json.dumps(weather_data), ex=7200
+                    location, json.dumps(weather_data), ex=ProjectConfig().CACHE_TIMEOUT
                 )  # Cache data for 2 hours
                 weather_data["source"] = "api"
                 return weather_data

@@ -7,7 +7,7 @@ class ShipmentController(BaseController):
     def __init__(self):
         super().__init__()
 
-    def track_shipment(self, params) -> dict:
+    def track_shipment(self, params) -> tuple:
         shipment_service = ShipmentsService()
         weather_service = WeatherService()
 
@@ -16,7 +16,6 @@ class ShipmentController(BaseController):
             return response_data, 400
 
         if "carrier" in params:
-            print("carrier in params")
             shipment = shipment_service.get_shipment_by_tracking_number_and_carrier(
                 params["tracking_number"], params["carrier"]
             )

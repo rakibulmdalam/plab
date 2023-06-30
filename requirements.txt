@@ -1,8 +1,6 @@
 Flask==2.3.2
 Flask_Cors==4.0.0
 flask_restx==1.1.0
-line_profiler==4.0.3
-locustio==0.999
 pytest==7.4.0
 redis==4.6.0
 Requests==2.31.0

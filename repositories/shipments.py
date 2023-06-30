@@ -52,8 +52,7 @@ class ShipmentRepository(BaseRepository):
                 shipment_query.tracking_number == id
             )
             if shipment_data:
-                print(shipment_data)
-                shipment = Shipment.from_dict(shipment_data)
+                shipment = Shipment.from_dict(shipment_data)  # type: ignore
                 return shipment
         except Exception as e:
             self.logger.error(f"An error occurred while retrieving the shipment: {e}")

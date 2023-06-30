@@ -6,10 +6,11 @@ from sys import platform
 
 @dataclass
 class ProjectConfig:
-    
-    HOME_DIR: str = os.environ['USERPROFILE'] if platform == 'win32' else os.environ['HOME']
-    PROJECT_DIR: str = HOME_DIR + '/parcellab/'
+    PROJECT_DIR: str = "./"
     PORT: int = 5000
+
+    REDIS_PORT: int = 6379
+    REDIS_HOST: str = "localhost"  # change to "redis" if you are using docker-compose
     DB: str = "resources/parcellab.json"
     SHIPMENTS_TABLE_NAME: str = "shipments"
     CACHE_TIMEOUT: int = 7200  # 2 hours
@@ -20,7 +21,7 @@ class ProjectConfig:
     LOG_DIR: str = "logs/"
     LOG_FILE: str = "project.log"
     LOGGER_NAME: str = "track_trace"
-    LOG_LEVEL: str = logging.DEBUG
+    LOG_LEVEL: int = logging.DEBUG
     LOG_FORMATTER: str = "%(asctime)s - %(name)s - %(levelname)s - [%(filename)s:%(lineno)s - %(funcName)s() ] - %(message)s"
     LOG_ROTATE_WHEN: str = "h"
     LOG_ROTATE_INTERVAL: int = 4
