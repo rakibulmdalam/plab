@@ -1,0 +1,240 @@
+2023-06-26 21:38:06,647 - track_trace - INFO - [app.py:56 - run() ] - Logging initiated
+2023-06-26 21:38:06,650 - track_trace - INFO - [app.py:75 - run() ] - Running in production mode
+2023-06-26 21:38:22,778 - track_trace - INFO - [app.py:84 - run() ] - WSGI server stopped
+2023-06-26 21:38:25,391 - track_trace - INFO - [app.py:56 - run() ] - Logging initiated
+2023-06-26 21:38:25,391 - track_trace - INFO - [app.py:75 - run() ] - Running in production mode
+2023-06-26 21:39:23,492 - track_trace - INFO - [app.py:84 - run() ] - WSGI server stopped
+2023-06-26 21:43:35,310 - track_trace - INFO - [app.py:56 - run() ] - Logging initiated
+2023-06-26 21:43:35,310 - track_trace - INFO - [app.py:75 - run() ] - Running in production mode
+2023-06-26 21:45:11,109 - track_trace - INFO - [app.py:84 - run() ] - WSGI server stopped
+2023-06-26 21:45:12,842 - track_trace - INFO - [app.py:55 - run() ] - Logging initiated
+2023-06-26 21:45:12,842 - track_trace - INFO - [app.py:74 - run() ] - Running in production mode
+2023-06-26 21:49:24,228 - track_trace - INFO - [app.py:83 - run() ] - WSGI server stopped
+2023-06-26 21:49:27,262 - track_trace - INFO - [app.py:55 - run() ] - Logging initiated
+2023-06-26 21:49:27,262 - track_trace - INFO - [app.py:74 - run() ] - Running in production mode
+2023-06-26 21:50:41,201 - track_trace - INFO - [app.py:83 - run() ] - WSGI server stopped
+2023-06-26 21:50:42,950 - track_trace - INFO - [app.py:55 - run() ] - Logging initiated
+2023-06-26 21:50:42,950 - track_trace - INFO - [app.py:74 - run() ] - Running in production mode
+2023-06-26 21:52:00,720 - track_trace - INFO - [app.py:83 - run() ] - WSGI server stopped
+2023-06-26 21:52:05,808 - track_trace - INFO - [app.py:54 - run() ] - Logging initiated
+2023-06-26 21:52:05,808 - track_trace - INFO - [app.py:73 - run() ] - Running in production mode
+2023-06-26 21:54:01,823 - track_trace - INFO - [app.py:82 - run() ] - WSGI server stopped
+2023-06-26 21:54:03,311 - track_trace - INFO - [app.py:54 - run() ] - Logging initiated
+2023-06-26 21:54:03,311 - track_trace - INFO - [app.py:73 - run() ] - Running in production mode
+2023-06-26 22:02:32,377 - track_trace - INFO - [app.py:82 - run() ] - WSGI server stopped
+2023-06-26 22:02:48,943 - track_trace - INFO - [app.py:54 - run() ] - Logging initiated
+2023-06-26 22:02:48,943 - track_trace - INFO - [app.py:73 - run() ] - Running in production mode
+2023-06-26 22:04:55,126 - track_trace - INFO - [app.py:82 - run() ] - WSGI server stopped
+2023-06-26 22:07:28,292 - track_trace - INFO - [app.py:52 - run() ] - Logging initiated
+2023-06-26 22:07:28,292 - track_trace - INFO - [app.py:71 - run() ] - Running in production mode
+2023-06-26 22:07:35,363 - track_trace - INFO - [app.py:80 - run() ] - WSGI server stopped
+2023-06-26 22:09:40,653 - track_trace - INFO - [app.py:52 - run() ] - Logging initiated
+2023-06-26 22:09:40,653 - track_trace - INFO - [app.py:57 - run() ] - Running in debug mode
+2023-06-26 22:09:41,217 - track_trace - INFO - [app.py:52 - run() ] - Logging initiated
+2023-06-26 22:09:41,217 - track_trace - INFO - [app.py:57 - run() ] - Running in debug mode
+2023-06-26 22:12:25,995 - track_trace - INFO - [app.py:67 - run() ] - WSGI server stopped
+2023-06-26 22:12:26,671 - track_trace - INFO - [app.py:52 - run() ] - Logging initiated
+2023-06-26 22:12:26,671 - track_trace - INFO - [app.py:57 - run() ] - Running in debug mode
+2023-06-26 22:14:44,628 - track_trace - INFO - [app.py:67 - run() ] - WSGI server stopped
+2023-06-26 22:14:45,335 - track_trace - INFO - [app.py:52 - run() ] - Logging initiated
+2023-06-26 22:14:45,335 - track_trace - INFO - [app.py:57 - run() ] - Running in debug mode
+2023-06-26 22:14:51,925 - track_trace - INFO - [app.py:67 - run() ] - WSGI server stopped
+2023-06-26 22:14:52,610 - track_trace - INFO - [app.py:52 - run() ] - Logging initiated
+2023-06-26 22:14:52,610 - track_trace - INFO - [app.py:57 - run() ] - Running in debug mode
+2023-06-26 22:15:40,050 - track_trace - INFO - [app.py:67 - run() ] - WSGI server stopped
+2023-06-26 22:15:40,737 - track_trace - INFO - [app.py:47 - run() ] - Logging initiated
+2023-06-26 22:15:40,737 - track_trace - INFO - [app.py:52 - run() ] - Running in debug mode
+2023-06-26 22:15:50,226 - track_trace - INFO - [app.py:62 - run() ] - WSGI server stopped
+2023-06-26 22:15:50,913 - track_trace - INFO - [app.py:47 - run() ] - Logging initiated
+2023-06-26 22:15:50,913 - track_trace - INFO - [app.py:52 - run() ] - Running in debug mode
+2023-06-26 22:16:05,471 - track_trace - INFO - [app.py:62 - run() ] - WSGI server stopped
+2023-06-26 22:16:06,173 - track_trace - INFO - [app.py:47 - run() ] - Logging initiated
+2023-06-26 22:16:06,173 - track_trace - INFO - [app.py:52 - run() ] - Running in debug mode
+2023-06-26 22:16:23,624 - track_trace - INFO - [app.py:62 - run() ] - WSGI server stopped
+2023-06-26 22:16:24,313 - track_trace - INFO - [app.py:47 - run() ] - Logging initiated
+2023-06-26 22:16:24,313 - track_trace - INFO - [app.py:52 - run() ] - Running in debug mode
+2023-06-26 22:16:26,711 - track_trace - INFO - [app.py:62 - run() ] - WSGI server stopped
+2023-06-26 22:16:27,379 - track_trace - INFO - [app.py:47 - run() ] - Logging initiated
+2023-06-26 22:16:27,379 - track_trace - INFO - [app.py:52 - run() ] - Running in debug mode
+2023-06-26 22:17:09,854 - track_trace - INFO - [app.py:62 - run() ] - WSGI server stopped
+2023-06-26 22:17:10,605 - track_trace - INFO - [app.py:47 - run() ] - Logging initiated
+2023-06-26 22:17:10,605 - track_trace - INFO - [app.py:52 - run() ] - Running in debug mode
+2023-06-26 22:17:31,353 - track_trace - INFO - [app.py:62 - run() ] - WSGI server stopped
+2023-06-26 22:17:32,099 - track_trace - INFO - [app.py:47 - run() ] - Logging initiated
+2023-06-26 22:17:32,099 - track_trace - INFO - [app.py:52 - run() ] - Running in debug mode
+2023-06-26 22:17:56,039 - track_trace - INFO - [app.py:62 - run() ] - WSGI server stopped
+2023-06-26 22:17:56,774 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:17:56,774 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:18:03,001 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:18:03,695 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:18:03,695 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:18:57,471 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:18:58,143 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:18:58,143 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:19:13,534 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:19:14,218 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:19:14,218 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:19:29,886 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:19:30,570 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:19:30,570 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:19:46,204 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:19:46,831 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:19:46,831 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:20:18,658 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:20:19,406 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:20:19,406 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:20:31,414 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:20:32,116 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:20:32,116 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:21:20,266 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:21:20,968 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:21:20,968 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:21:53,262 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:21:53,915 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:21:53,915 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:23:07,918 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:23:08,621 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:23:08,621 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:23:10,978 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:23:11,714 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:23:11,714 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:23:26,129 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:23:26,864 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:23:26,864 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:24:20,622 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:24:20,686 - track_trace - INFO - [app.py:67 - run() ] - WSGI server stopped
+2023-06-26 22:24:25,401 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:24:25,401 - track_trace - INFO - [app.py:65 - run() ] - Running in production mode
+2023-06-26 22:25:33,397 - track_trace - INFO - [app.py:74 - run() ] - WSGI server stopped
+2023-06-26 22:25:35,958 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:25:35,958 - track_trace - INFO - [app.py:65 - run() ] - Running in production mode
+2023-06-26 22:30:07,128 - track_trace - INFO - [app.py:74 - run() ] - WSGI server stopped
+2023-06-26 22:30:18,559 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:30:18,559 - track_trace - INFO - [app.py:65 - run() ] - Running in production mode
+2023-06-26 22:31:50,088 - track_trace - INFO - [app.py:74 - run() ] - WSGI server stopped
+2023-06-26 22:33:30,477 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:33:30,477 - track_trace - INFO - [app.py:65 - run() ] - Running in production mode
+2023-06-26 22:34:26,447 - track_trace - INFO - [app.py:74 - run() ] - WSGI server stopped
+2023-06-26 22:34:28,204 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:34:28,204 - track_trace - INFO - [app.py:65 - run() ] - Running in production mode
+2023-06-26 22:35:16,241 - track_trace - INFO - [app.py:74 - run() ] - WSGI server stopped
+2023-06-26 22:35:19,600 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:35:19,600 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:35:20,246 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:35:20,246 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:36:24,941 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:36:25,619 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:36:25,620 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:36:29,942 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:36:30,656 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:36:30,656 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:36:37,607 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:36:38,285 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:36:38,285 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:36:43,296 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:36:44,062 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:36:44,062 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:36:50,590 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:36:51,276 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:36:51,276 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:36:53,852 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:36:54,588 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:36:54,588 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:37:16,285 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:37:17,028 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:37:17,028 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:37:22,802 - track_trace - ERROR - [shipment.py:53 - from_dict() ] - Invalid item data
+2023-06-26 22:38:40,495 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:38:41,180 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:38:41,180 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:38:46,740 - track_trace - ERROR - [shipment.py:55 - from_dict() ] - Invalid item data
+2023-06-26 22:39:43,652 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:39:44,352 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:39:44,352 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:40:08,282 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:40:09,043 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:40:09,043 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:40:29,287 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:40:29,987 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:40:29,987 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:40:38,408 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:40:39,113 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:40:39,113 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:41:42,145 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:41:42,816 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:41:42,816 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:44:07,986 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:44:08,680 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:44:08,680 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:44:53,876 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:44:54,549 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:44:54,549 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:44:59,718 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:45:00,418 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:45:00,418 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:45:18,582 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:45:19,337 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:45:19,337 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:45:31,031 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:45:31,754 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:45:31,754 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:45:39,140 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:45:39,837 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:45:39,837 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:45:48,530 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:45:49,252 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:45:49,252 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:45:57,885 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:45:58,600 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:45:58,600 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:46:07,079 - track_trace - ERROR - [weather.py:34 - get_weather_by_location() ] - WeatherAPI API key not found. Make sure to set the WEATHERAPI_API_KEY environment variable.
+2023-06-26 22:46:48,128 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:46:48,804 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:46:48,804 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:46:54,502 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:46:55,173 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:46:55,173 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:47:25,062 - track_trace - ERROR - [weather.py:34 - get_weather_by_location() ] - WeatherAPI API key not found. Make sure to set the WEATHERAPI_API_KEY environment variable.
+2023-06-26 22:55:59,919 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:56:00,665 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:56:00,665 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:56:50,505 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:56:51,210 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:56:51,210 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:57:07,675 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:57:08,302 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:57:08,302 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:57:24,308 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:57:24,971 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:57:24,971 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:57:53,431 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:57:54,041 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:57:54,041 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:57:55,523 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:57:56,268 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:57:56,268 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:58:17,096 - track_trace - ERROR - [weather.py:34 - get_weather_by_location() ] - WeatherAPI API key not found. Make sure to set the WEATHERAPI_API_KEY environment variable.
+2023-06-26 22:58:49,154 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:58:49,826 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:58:49,826 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:58:52,340 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:58:53,028 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:58:53,028 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:58:59,912 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:59:00,583 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:59:00,583 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:59:08,207 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:59:08,906 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:59:08,906 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:59:17,302 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:59:18,054 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:59:18,054 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:59:22,081 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:59:22,745 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:59:22,745 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 22:59:24,215 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 22:59:24,900 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 22:59:24,900 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode
+2023-06-26 23:09:55,445 - track_trace - INFO - [app.py:61 - run() ] - WSGI server stopped
+2023-06-26 23:09:56,195 - track_trace - INFO - [app.py:46 - run() ] - Logging initiated
+2023-06-26 23:09:56,195 - track_trace - INFO - [app.py:51 - run() ] - Running in debug mode

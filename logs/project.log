@@ -1,0 +1,3 @@
+2023-06-30 08:58:03,627 - track_trace - INFO - [app.py:67 - run() ] - WSGI server stopped
+2023-06-30 10:34:33,418 - track_trace - INFO - [app.py:39 - run() ] - Logging initiated
+2023-06-30 10:34:33,418 - track_trace - INFO - [app.py:58 - run() ] - Running in production mode
