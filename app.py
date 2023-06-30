@@ -1,24 +1,43 @@
 import argparse
 import logging
 import multiprocessing as mp
+from flask_restx import Api, apidoc
 from waitress import serve
 from flask import Flask
 from flask_cors import CORS
+import json
+
+from configs.project_config import ProjectConfig
+from utils import get_log_handler
 
 # importing routes
 from routes import shipments
 
-from configs.project_config import ProjectConfig
-from configs.endpoints import EndPoints
-from utils import get_log_handler
-
 # creating the Application Context
 APP = Flask(__name__)
+api = Api(
+    APP, version="1.0", title="Track and Trace API", description="API documentation"
+)
 
-# conneting Blueprints
-APP.register_blueprint(shipments.get_blueprint(), url_prefix=EndPoints().URL_PREFIX)
+# adding namespaces
+api.add_namespace(shipments.shipment_api)
+
+
+# Custom route to generate and save the Swagger JSON file
+@APP.route("/get_swagger")
+def generate_swagger_json():
+    swagger_data = api.__schema__
+    with open("open_api.json", "w") as file:
+        file.write(json.dumps(swagger_data))  # type: ignore
+    return "Swagger JSON file generated"
+
 
 # TODO: custom error handlers
+
+
+@api.documentation
+def custom_ui():
+    return apidoc.ui_for(api)
 
 
 def run():
@@ -56,7 +75,7 @@ def run():
         try:
             # running wsgi (waitress) standard server
             logger.info("Running in production mode")
-            num_workers = mp.cpu_count() * 4
+            num_workers = mp.cpu_count()
             serve(APP, port=ProjectConfig().PORT, threads=num_workers)
         except KeyboardInterrupt:
             logger.info("Keyboard Interrupt. Stopping server.")

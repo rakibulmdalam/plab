@@ -1,7 +1,5 @@
 from dataclasses import dataclass
 import logging
-import os
-from sys import platform
 
 
 @dataclass
@@ -11,11 +9,14 @@ class ProjectConfig:
 
     REDIS_PORT: int = 6379
     REDIS_HOST: str = "localhost"  # change to "redis" if you are using docker-compose
-    DB: str = "resources/parcellab.json"
-    SHIPMENTS_TABLE_NAME: str = "shipments"
     CACHE_TIMEOUT: int = 7200  # 2 hours
 
-    WEATHERAPI_API_KEY: str = "76302673469d42209ec174958232606"
+    DB: str = "resources/parcellab.json"
+    SHIPMENTS_TABLE_NAME: str = "shipments"
+
+    WEATHERAPI_API_KEY: str = (
+        "76302673469d42209ec174958232606"  # TODO: put this in env variables
+    )
     WEATHER_API_BASE_URL: str = "http://api.weatherapi.com/v1"
 
     LOG_DIR: str = "logs/"
