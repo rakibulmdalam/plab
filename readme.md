@@ -1,5 +1,15 @@
 # Track and Trace API
 
+*** The goal of the project is to create a RESTful API that allows to track and trace parcels. ***
+
+Here are the objectives that influenced the design of the API:
+
+1. Maintainability: The code is structured in a way that it is easy to maintain and extend.
+2. Testability: The code is structured in a way that it is easy to test.
+3. Readability: The code is structured in a way that it is easy to read and understand.
+4. Scalability: The code is structured in a way that it is easy to scale.
+
+
 ## Clone the repository
     
 ```bash
